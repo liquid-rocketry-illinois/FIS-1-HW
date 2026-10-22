@@ -3673,7 +3673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lri_footprints:SAMTEC_ESQ-120-14-G-D_CCW"
 			(at 69.85 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -3869,7 +3869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 34.29 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -3945,7 +3945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 21.59 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4021,7 +4021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 21.59 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4097,7 +4097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SO-1524-03-01-02-L:SAMTEC_SO-1524-03-01-02-L"
+		(property "Footprint" "lri_footprints:SAMTEC_SO-1524-03-01-02-L"
 			(at 53.34 189.992 0)
 			(hide yes)
 			(show_name no)
@@ -4210,7 +4210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 34.29 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4284,7 +4284,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "lri_footprints:SAMTEC_ESQ-132-14-G-D_CCW"
 			(at 35.56 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4552,7 +4552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SO-1524-03-01-02-L:SAMTEC_SO-1524-03-01-02-L"
+		(property "Footprint" "lri_footprints:SAMTEC_SO-1524-03-01-02-L"
 			(at 73.66 179.832 0)
 			(hide yes)
 			(show_name no)
@@ -4665,7 +4665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SO-1524-03-01-02-L:SAMTEC_SO-1524-03-01-02-L"
+		(property "Footprint" "lri_footprints:SAMTEC_SO-1524-03-01-02-L"
 			(at 73.66 189.992 0)
 			(hide yes)
 			(show_name no)
@@ -4778,7 +4778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SO-1524-03-01-02-L:SAMTEC_SO-1524-03-01-02-L"
+		(property "Footprint" "lri_footprints:SAMTEC_SO-1524-03-01-02-L"
 			(at 53.34 179.832 0)
 			(hide yes)
 			(show_name no)
