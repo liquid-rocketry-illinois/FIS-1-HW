@@ -1,3 +1,4 @@
+# KiCad .gitignore
 fp-info-cache
 fp-lib-table
 sym-lib-table
@@ -12,3 +13,26 @@ lib/*.bak
 .DS_Store
 production/
 .history/
+
+
+# Altium Designer .gitignore
+*.bak
+*.Bak
+*.SchDoc.bak
+*.PcbDoc.bak
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.PrjPcbStructure
+*.PrjPcbStructure.bak
+*.SchDocPreview
+*.PcbDocPreview
+*.DsnWrk
+*.LDC
+*.~*
+*.Dat
+*.TLT
+*.Rep
+*.REP
+*.PrjPCBUser
+*.Workspace.local
+Recovery/

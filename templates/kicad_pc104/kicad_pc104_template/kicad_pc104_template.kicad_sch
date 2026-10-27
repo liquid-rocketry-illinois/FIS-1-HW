@@ -3528,7 +3528,7 @@
 		)
 		(uuid "fc765524-5f73-4cb5-8ac5-c3d36ec50283")
 	)
-	(text "[0] MASTER CONNECTIONS"
+	(text "[1] MASTER CONNECTIONS"
 		(exclude_from_sim no)
 		(at 12.7 15.24 0)
 		(effects
@@ -3653,7 +3653,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "454415c4-f74d-4c38-9f6a-46dc1bf1ee1e")
-		(property "Reference" "J002"
+		(property "Reference" "J102"
 			(at 68.58 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3829,7 +3829,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J002")
+					(reference "J102")
 					(unit 1)
 				)
 			)
@@ -3847,7 +3847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4762af69-5561-4f02-a1c7-ab826f5f793b")
-		(property "Reference" "H004"
+		(property "Reference" "H104"
 			(at 36.83 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3905,7 +3905,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "H004")
+					(reference "H104")
 					(unit 1)
 				)
 			)
@@ -3923,7 +3923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ba0a39a-1517-49ee-85aa-69284d9b37ad")
-		(property "Reference" "H001"
+		(property "Reference" "H101"
 			(at 24.13 160.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3981,7 +3981,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "H001")
+					(reference "H101")
 					(unit 1)
 				)
 			)
@@ -3999,7 +3999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c44c229-2c80-4618-a77b-0c97f4063422")
-		(property "Reference" "H002"
+		(property "Reference" "H102"
 			(at 24.13 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4057,7 +4057,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "H002")
+					(reference "H102")
 					(unit 1)
 				)
 			)
@@ -4074,7 +4074,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c7bea9a-9ee6-4d4a-8b22-4f5230681dab")
-		(property "Reference" "J004"
+		(property "Reference" "J104"
 			(at 45.72 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4170,7 +4170,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J004")
+					(reference "J104")
 					(unit 1)
 				)
 			)
@@ -4188,7 +4188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57019092-ef90-4875-ab62-920028451566")
-		(property "Reference" "H003"
+		(property "Reference" "H103"
 			(at 36.83 160.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4246,7 +4246,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "H003")
+					(reference "H103")
 					(unit 1)
 				)
 			)
@@ -4264,7 +4264,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d4e60fe-1448-4b2d-8cfc-52014dde34fe")
-		(property "Reference" "J001"
+		(property "Reference" "J101"
 			(at 34.29 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4512,7 +4512,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J001")
+					(reference "J101")
 					(unit 1)
 				)
 			)
@@ -4529,7 +4529,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4e99db9-c459-4864-b1f2-87a60a864202")
-		(property "Reference" "J005"
+		(property "Reference" "J105"
 			(at 66.04 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4625,7 +4625,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J005")
+					(reference "J105")
 					(unit 1)
 				)
 			)
@@ -4642,7 +4642,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db789266-a100-48c3-ac0f-31a86e5d97b1")
-		(property "Reference" "J006"
+		(property "Reference" "J106"
 			(at 66.04 167.64 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4738,7 +4738,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J006")
+					(reference "J106")
 					(unit 1)
 				)
 			)
@@ -4755,7 +4755,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4a88c77-1694-4be0-9c19-33d34ee12187")
-		(property "Reference" "J003"
+		(property "Reference" "J103"
 			(at 45.72 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4851,7 +4851,7 @@
 		(instances
 			(project "kicad_pc104_template"
 				(path "/43bd01a8-88b1-4594-aa57-14eef8d368f1"
-					(reference "J003")
+					(reference "J103")
 					(unit 1)
 				)
 			)
