@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "PC/104 FORM FACTOR")
+		(date "2026-10-28")
+		(rev "A")
+		(company "LIQUID ROCKETRY @ ILLINOIS")
+		(comment 1 "Author: Wang, Joseph")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
