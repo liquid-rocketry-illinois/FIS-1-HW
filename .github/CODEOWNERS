@@ -1,3 +1,9 @@
-# Default owner for libraries
-/templates/ @redjoj
-/libraries/ @redjoj
+#  Default owners: Electronics Leads
+*@liquid-rocketry-illinois/electronics-leads @redjoj
+
+#  Default owner for ECAD libraries
+/templates/ @liquid-rocketry-illinois/electronics-leads 
+/libraries/ @liquid-rocketry-illinois/electronics-leads 
+
+# Open
+/pcb/
