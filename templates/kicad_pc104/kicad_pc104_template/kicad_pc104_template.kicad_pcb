@@ -881,7 +881,7 @@
 			(uuid "d7d237d2-cb6b-46f0-9b31-ae1a00e70b69")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/lib/3d/ESQ-120-14-G-D.stp"
+		(model "D:/PROJECTS/liquidrocketry/Projects/FIS-1-HW/libraries/kicad/3d/ESQ-120-14-G-D.stp"
 			(offset
 				(xyz 0 0 2.5)
 			)
@@ -1697,7 +1697,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/lib/3d/SO-1524-03-01-02-L.STEP"
+		(model "D:/PROJECTS/liquidrocketry/Projects/FIS-1-HW/libraries/kicad/3d/SO-1524-03-01-02-L.STEP"
 			(offset
 				(xyz 0 0 -1.85)
 			)
@@ -3696,7 +3696,7 @@
 			(uuid "4521a685-31b1-4391-842a-2dc34a6bc343")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/lib/3d/ESQ-132-14-G-D.stp"
+		(model "D:/PROJECTS/liquidrocketry/Projects/FIS-1-HW/libraries/kicad/3d/ESQ-132-14-G-D.stp"
 			(offset
 				(xyz 0 0 2.5)
 			)
